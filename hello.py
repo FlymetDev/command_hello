@@ -1,4 +1,4 @@
-// to lean python is difficult
+// to learn python is difficult
 
 println("Hello World")
 println("Hello Correction")
